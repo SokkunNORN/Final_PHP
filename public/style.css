@@ -9,6 +9,10 @@ body {
     border-radius: 7px;
 }
 
+h2 {
+    background-image: url("background.jpg");
+}
+
 
 
 

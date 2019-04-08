@@ -11,7 +11,7 @@
 </head>
 <body>
     
-    <h2 class="text-center mb-5 bg-info p-3 text-white">WEB CALCULATOR</h2>
+    <h2 class="text-center mb-5 p-3 text-white">WEB CALCULATOR</h2>
 
     <div class="container mt-4">
     
